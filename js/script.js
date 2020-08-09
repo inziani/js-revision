@@ -17,9 +17,9 @@
 // };
 // alert(myList);
 
-let yourName;
-do{yourName=prompt("Who are you");
-}
-while(!yourName);
-alert(yourName);
+// let yourName;
+// do{yourName=prompt("Who are you");
+// }
+// while(!yourName);
+// alert(yourName);
   
